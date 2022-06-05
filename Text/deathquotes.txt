@@ -218,11 +218,38 @@ that last drink.[Beat][CloseEyes][A][X]
 [MidRight][LoadAurora]
 S-sister, I'm sorry.[A][X]
 
+## MinkDeathQuote
+[MidRight][LoadMink]
+S-so soon? [AN]
+There was so much I wanted to do[Beat][CloseEyes][A][X]
+
+## TiberiusDeathQuote
+[MidRight][LoadTiberius]
+A pawn I will remain no longer[Beat][CloseEyes][A][X]
+
+## Ch12TiberiusDeathQuote
+[MidRight][LoadTiberius]
+A fitting reward for my[N]
+indolence[Beat][CloseEyes][A][X]
+
 ## EithaDeathQuote
-[MidRight][LoadDragana]
-W[Beat]what happened?[AN] How am I still[Beat]?[AN]
-[Beat]this blood[Beat]these bodies[Beat][AN]
-W-what have I done?[A][X]
+[MidLeft][LoadDraganaDeadlord][ToggleInvert]
+[Beat]m-my[Beat] be[Beat]lov[Beat]ed[Beat][AN]
+[Beat]t-to[Beat]gether[Beat]
+[Beat]for[Beat]for[Beat]ev-[AN]
+[ToggleInvert]
+[Beat]uhnn[Beat] what happened[Beat]?[AN][CloseSpeechSlow][ClearFace]
+[MidRight][LoadLoewe]
+[Beat]D-dragana?[AN][CloseSpeechSlow][ClearFace]
+[MidLeft][LoadDragana]
+Where[Beat] am I?[N]
+I thought that I[Beat] uhn![AN][CloseSpeechSlow][ClearFace]
+[MidRight][LoadLoewe]
+Dragana![AN][CloseSpeechSlow][ClearFace]
+[MidRight][LoadCleo]
+It's you! It's really you![AN][CloseSpeechSlow][ClearFace]
+[MidLeft][LoadDragana]
+Loewe[Beat] Cleo[Beat][A][X]
 
 ## CarlDeathQuote
 [MidRight][LoadCarl]
@@ -328,7 +355,8 @@ I was[Beat] so good at my job[Beat][AN][CloseEyes][X]
 
 ## AltoDeathQuoteText
 [MidLeft][LoadAlto]
-Will they even remember my name[Beat]?[AN][CloseEyes][X]
+Will they even[N]
+remember my name[Beat]?[AN][CloseEyes][X]
 
 ## MureibDeathQuoteText
 [MidLeft][LoadMureib]
@@ -428,3 +456,55 @@ two there[Beat]? Save me[Beat][A][CloseEyes][X]
 [MidRight][LoadFaolan]
 May our future[N]
 be bathed in light[Beat][A][CloseEyes][X]
+
+## NgondalaDeathQuoteText
+[MidRight][LoadNgondala]
+O Byelen, O spirits, though you[N]
+may take me into your embrace,[AN]
+please, [CloseEyes]spare my family[Beat][A][X]
+
+## CatrinRealDeathQuoteText
+[MidRight][LoadCatrin]
+[Beat]So this is the end.[A][N]
+It was an honor to[N]
+fight alongside you[Beat][A][N]
+[HalfCloseEyes]Please, Loewe, don't give up.[N]
+Finish this, for all of our sakes.[A][N]
+I believe[Beat] [A][CloseEyes]in you[Beat][A][ClearFace]
+[MidLeft][LoadLoewePunished]
+Mom! MOM![AN]
+[CloseEyes]NO!!![A][X]
+
+## VinnyDeathQuoteText
+[MidLeft][LoadVinny]
+Why, you uncouth little[Beat] [HalfCloseEyes]Gkh![AN]
+U-unhand me! Unhand[N]
+me, you dastards![AN]
+I am a nobleman of Decia![N]
+I am a master tactician![AN]
+[OpenEyes]A MASTER![AN]
+[HalfCloseEyes]My talents cannot[Beat] go[N]
+to waste[Beat] [CloseEyes]like this[Beat][A][X]
+
+## CephalidDeathQuoteText
+[MidLeft][LoadCephalid]
+You got me good[Beat][AN]
+Temur, you dastard,[N]
+was this your plan[Beat][CloseEyes]?[A][X]
+
+## XleaDeathQuoteText
+[MidLeft][LoadXlea]
+[HalfCloseEyes]Xale, Alex, Axel, Lexa[Beat][AN]
+I pray that all of you[Beat][N]
+met better fates than I[Beat][AN]
+Long live[Beat] Chouwouj[Beat]![CloseEyes][A][X]
+
+## TarajiDeathQuoteText
+[MidLeft][LoadTaraji]
+After all these years,[AN]
+I finally meet a foe[N]
+I cannot destroy[Beat][AN]
+Is this the vaunted[N]
+strength of Athanasius?[AN]
+No, impossible[Beat] [HalfCloseEyes]it's the[N]
+strength of mortals[Beat]?[A][X]
